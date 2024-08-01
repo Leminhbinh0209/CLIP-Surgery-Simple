@@ -1,5 +1,5 @@
 # CLIP-Surgery-Simple
-This respository help you to add self-self attention without create new model / modules. Without copying params in the forward.
+This respository help you to add self-self attention without creating new model / modules, nor copying params in the forward.
 
 ***Paper***: CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks ([arxiv](https://arxiv.org/abs/2304.05653), [original implemetation](https://github.com/xmed-lab/CLIP_Surgery/tree/master/clip))
 
